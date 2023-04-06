@@ -7,9 +7,9 @@ Machine learning models – logistic regression and decision tree will be employ
 
 ## Prerequisites
 
-*Python(numPy,Folium,Pandas,requests)
-*JupyterNoteBook
-*SQL
+* Python(numPy,Folium,Pandas,Requests,bamboolib,csv,json,Matplotlib,seaborn,sklearn)
+* JupyterNoteBook
+* SQL
 
 
 
