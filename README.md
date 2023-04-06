@@ -5,5 +5,12 @@ Latest version of Crime Incident Reports dataset for 2023 available on the Bosto
 To reveal concealed trends in the data, we will utilize visualization techniques like bar plots, geographic maps, and line graphs
 Machine learning models – logistic regression and decision tree will be employed to predict or find probability of shooting**. ⚠
 
+Prerequisites
+
+Python
+JupyterNoteBook
+SQL
+
+
 
 
